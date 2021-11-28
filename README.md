@@ -5,6 +5,8 @@
 - 🔥 I’m React Native developer
 - 🌱 I’m currently learning native part of react native
 - 👯 I’m looking to collaborate on some open source projects
+- 🏙 I'm living in Helsinki, Finland
+- 🗣 Can speak English and Russian. Trying to learn Finnish 
 - ❤️ I like to play video games, [take photos](https://www.instagram.com/eugenusov/) and learn something new
 
 ## My Stack
