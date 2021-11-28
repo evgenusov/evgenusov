@@ -16,6 +16,9 @@
 - <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="17"/> Mobx State Tree / Redux
 - <img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" width="17" /> Typescript
 - 😄 Reanimated
+- Nodejs
+- Mongo
+- Docker
 
 ## My libraries
 - [React Native iOS Drag and Drop](https://github.com/evgenusov/react-native-ios-drag-and-drop)
