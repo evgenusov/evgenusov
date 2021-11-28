@@ -7,6 +7,13 @@
 - 👯 I’m looking to collaborate on some open source projects
 - ❤️ I like to play video games, [take photos](https://www.instagram.com/eugenusov/) and learn something new
 
+## My Stack
+
+- ![React logo](https://reactnative.dev/img/header_logo.svg) React Native
+- Reanimated
+- Mobx State Tree / Redux
+- Styled Components
+
 <!--
 **evgenusov/evgenusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
