@@ -18,7 +18,7 @@
 - 😄 Reanimated
 - <img src="https://nodejs.dev/favicon-32x32.png" width="17"> Nodejs
 - <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" width="17"/> Docker
-- <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="17"/> MongoDB
+- <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="17"/> MongoDB
 
 ## My libraries
 - [React Native iOS Drag and Drop](https://github.com/evgenusov/react-native-ios-drag-and-drop)
