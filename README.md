@@ -9,7 +9,7 @@
 
 ## My Stack
 
-- ![React logo](https://reactnative.dev/img/header_logo.svg) React Native
+- ![React logo](https://reactnative.dev/img/header_logo.svg =32x32) React Native
 - Reanimated
 - Mobx State Tree / Redux
 - Styled Components
