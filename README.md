@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! I'm Evgenii 👋
+
+![just funny gif)(https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
+- 🔥 I’m React Native developer
+- 🌱 I’m currently learning native part of react native
+- 👯 I’m looking to collaborate on some open source projects
+- ❤️ I like to play video games, [take photos](https://www.instagram.com/eugenusov/) and learn something new
 
 <!--
 **evgenusov/evgenusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
