@@ -14,7 +14,7 @@
 - <img src="https://reactnative.dev/img/header_logo.svg" width="17"> React Native
 - 💅🏿 Styled Components
 - <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="17"/> Mobx State Tree / Redux
-- <img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" width="17" /> Typescript
+- <img src="https://www.typescriptlang.org/favicon-32x32.png" width="17" /> Typescript
 - 😄 Reanimated
 - <img src="https://nodejs.dev/favicon-32x32.png" width="17"> Nodejs
 - <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" width="17"/> Docker
