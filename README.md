@@ -8,7 +8,7 @@
 - ❤️ I like to play video games, [take photos](https://www.instagram.com/eugenusov/) and learn something new
 
 ## My Stack
-
+<img src="https://reactnative.dev/img/header_logo.svg" width="200">
 - ![React logo](https://reactnative.dev/img/header_logo.svg =32x32) React Native
 - Reanimated
 - Mobx State Tree / Redux
