@@ -1,6 +1,6 @@
 ### Hi there! I'm Evgenii 👋
 
-![just funny gif](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+![just funny gif](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 - 🔥 I’m React Native developer
 - 🌱 I’m currently learning native part of react native
