@@ -1,4 +1,5 @@
 ### Hi there! I'm Evgenii 👋
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=evgenusov.evgenusov&left_color=green&right_color=red)
 
 ![just funny gif](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
