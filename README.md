@@ -9,11 +9,11 @@
 
 ## My Stack
 
-- <img src="https://reactnative.dev/img/header_logo.svg" width="17"> React Native
-- 💅🏿 Styled Components
-- <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="17"/> Mobx State Tree / Redux
-- Reanimated
-- Typescript
+<img src="https://reactnative.dev/img/header_logo.svg" width="17"> React Native
+💅🏿 Styled Components
+<img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="17"/> Mobx State Tree / Redux
+Reanimated
+Typescript
 
 <!--
 **evgenusov/evgenusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
