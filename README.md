@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on some open source projects
 - 🏙 I'm living in Helsinki, Finland
 - 💌 Feel free to write me: [LinkedIn](https://www.linkedin.com/in/eusov/)
-- 🗣 Can speak English and Russian. Trying to learn Finnish 
+- 🗣 I can speak English and Russian. Trying to learn Finnish 
 - ❤️ I like to play video games, [take photos](https://www.instagram.com/eugenusov/) and learn something new
-- 
+
 
 ## My Stack
 
