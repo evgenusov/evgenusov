@@ -25,3 +25,4 @@
 
 ## My libraries
 - [React Native iOS Drag and Drop](https://github.com/evgenusov/react-native-ios-drag-and-drop)
+- [React Native Image Generator](https://github.com/evgenusov/react-native-image-generator)
